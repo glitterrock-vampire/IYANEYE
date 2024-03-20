@@ -1,11 +1,3 @@
-![screenshots of bimber-boys-official](./wireframes/readme/pages_all_devices.PNG)
-
-# Bimber Boys Band Official Web Page
-
-See the [demo version](https://bimberboys-official.vercel.app/) deployed to [Vercel](https://vercel.com/). You can check the live production version at [Bimber Boys Official](https://bimberboys.pl).
-
-The project is a semi-commercial realisation of a successful cooperation with one of the coolest local folk cover bands in Poland. It is a statically generated landing page written in Next.js, typed with Typescript and styled using Sass with CSS modules.
-
 **Main features**:
 
 - subscribing to the newsletter by typing in an email address.
@@ -42,7 +34,7 @@ You will also see any lint errors in the console.
 ## 🤔 Solutions provided in the project
 
 - Mock pages were designed using Figma prototyping tool:
-  &nbsp;
+
   ![figma mocks](./wireframes/figma/figma-mocks.jpg)
   &nbsp;
 
@@ -139,11 +131,9 @@ const onSubmit: SubmitHandler<ISubscribeInputs> = (data) => {
 };
 ```
 
-As described in this nice [blog post](https://dev.to/gedalyakrycer/create-an-email-list-with-react-mailchimp-965) by Gedalya Krycer.
-
 ## 🙋‍♂️ Feel free to contact me
 
-LinkedIn - [/in/pawel-pikus](https://www.linkedin.com/in/pawel-pikus/)
+LinkedIn - [/in/andre-walters](https://www.linkedin.com/in/andre-walters-876engineer/)
 
 ## 👏 Thanks / Special thanks / Credits
 
