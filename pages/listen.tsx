@@ -27,20 +27,18 @@ const Listen = () => {
               </p>
               <p>
                 Our collection features songs mostly recorded live, capturing the raw energy and unfiltered
-                essence of our performances. Among these, the ballad "SONG NAME" a heartfelt cover of
+                essence of our performances. Among these, the ballad &quot;SONG NAME&quot; a heartfelt cover of
                 NAME classic, holds a special place. Recorded in a single take, it embodies the
                 spirit of our music—direct, sincere, and from the heart.
               </p>
-
               <p>
-                The music video for "SONG NAME" is a testament to the creative collaboration of our friends,
+                The music video for &quot;SONG NAME&quot; is a testament to the creative collaboration of our friends,
                 a serious endeavor that showcases not just our musical vision but also the talents of those
-                who share our path. But our journey doesn't stop at covers. We're constantly weaving our own
+                who share our path. But our journey doesn&apos;t stop at covers. We&apos;re constantly weaving our own
                 stories into songs, with dreams of an album that fully represents us. Our own compositions are
-                on the horizon, and we can't wait to share the first of these songs with you. Stay tuned for original
+                on the horizon, and we can&apos;t wait to share the first of these songs with you. Stay tuned for original
                 releases that promise to enrich our shared tapestry of melodies and memories.
               </p>
-
               <p>
                 Listen and See for Yourself
                 You can listen to us here and see our stories unfold. Each song, a spontaneous burst of creativity;
@@ -50,18 +48,6 @@ const Listen = () => {
             </article>
             <Player />
           </section>
-          {/* <section className={styles.col}>
-            <div className={styles.video_wrapper}>
-              <YouTube videoId="Y5xyvx4hAKg" className={styles.video} />
-            </div>
-
-            <div className={styles.video_wrapper}>
-              <YouTube videoId="t0mzXsh45Q4" className={styles.video} />
-            </div>
-            <div className={styles.video_wrapper}>
-              <YouTube videoId="d6X35Y30p2A" className={styles.video} />
-            </div>
-          </section> */}
         </div>
       </div>
     </>

@@ -7,7 +7,7 @@ const About = () => {
   return (
     <>
       <Head>
-        <title></title>
+        <title>IYANEYE the Band - About Us</title>
       </Head>
 
       <div className={styles.content}>
@@ -23,8 +23,8 @@ const About = () => {
           <h1 className={styles.title}>IYANEYE the Band</h1>
           <p className={styles.main_text}>
             Welcome to the soulful world of IYANEYE, a roots reggae band that embodies the spirit of enduring friendship and the timeless vibes of reggae music.
-            Our journey is one of unity, music, and a shared love for the rhythms that connect us all. Formed by a close-knit group of musicians who have been friends for over 30 years, IYANEYE is more than just a band—it's a testament to the bonds that music can forge.
-            Each member, now above the age of 60, brings a wealth of experience and a deep passion for reggae's rich heritage to the ensemble.
+            Our journey is one of unity, music, and a shared love for the rhythms that connect us all. Formed by a close-knit group of musicians who have been friends for over 30 years, IYANEYE is more than just a band&mdash;it&apos;s a testament to the bonds that music can forge.
+            Each member, now above the age of 60, brings a wealth of experience and a deep passion for reggae&apos;s rich heritage to the ensemble.
           </p>
           <p>
             Our music is a homage to the roots reggae and the classic vibes of yesteryears.
@@ -32,11 +32,11 @@ const About = () => {
             Our sound is a blend of the familiar and the new, intended to resonate with long-time reggae enthusiasts and new listeners alike.
           </p>
           <p>
-            IYANEYE's repertoire is a carefully curated collection of songs that speak to the soul, uplift the spirit, and move the body.
+            IYANEYE&apos;s repertoire is a carefully curated collection of songs that speak to the soul, uplift the spirit, and move the body.
             Our performances are not just concerts; they are gatherings of friends, old and new, united by a love for music that transcends time and age.
 
             Join us on this musical journey as we celebrate life, friendship, and the enduring power of reggae music.
-            IYANEYE invites you to be part of our story, a story that proves it's never too late to pursue your passion, to create, and to
+            IYANEYE invites you to be part of our story, a story that proves it&apos;s never too late to pursue your passion, to create, and to
             share the joy of music with the world.
           </p>
           <p>
@@ -63,15 +63,13 @@ const About = () => {
               <p className={styles.name}>Jacob</p>
               <p className={styles.caption}>bass guitar</p>
             </div>
-
             <div className={styles.col}>
               <p className={styles.name}>Name</p>
-              <p className={styles.caption}>precussion</p>
+              <p className={styles.caption}>percussion</p>
             </div>
           </div>
         </article>
       </div>
-
     </>
   );
 };
