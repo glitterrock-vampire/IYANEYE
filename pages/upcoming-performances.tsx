@@ -28,7 +28,7 @@ const performances = [
     name: "I AM ON THE RISE",
     date: "June 24, 2024",
     location: "22 Jerk, Kingston, Jamaica",
-    description: "Experience the roots of reggae music with a modern twist at the iconic Dub Club.",
+    description: "Experience the roots of reggae music with a modern twist at the iconic 22 Jerk. Come drink and have a vibe",
     ticketsUrl: "https://example.com/reggae-sunsplash-tickets"
 
   },
