@@ -1,0 +1,70 @@
+@import "variables";
+@import "title";
+@import "nav";
+@import "cta";
+@import "footer";
+@import "layout";
+
+.article_container {
+  text-align: left;
+  justify-content: flex-start;
+}
+
+.img_wrapper {
+  margin-bottom: $base-margin;
+}
+
+.img_wrapper > span {
+  box-shadow: $base-box-shadow;
+}
+
+.band_members_container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.name {
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+
+.caption {
+  margin: 0;
+  font-size: $font-size-sm;
+}
+
+.col {
+  width: fit-content;
+  text-align: center;
+}
+
+@media (min-width: 800px) {
+  .article_container {
+    margin-top: 2em;
+  }
+
+  .title_about {
+    font-size: $font-size-xxl;
+  }
+
+  .main_text {
+    margin-bottom: 1em;
+  }
+
+  .band_members_container {
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 0.5em;
+  }
+
+  .col {
+    margin: 1em 0 3em 0;
+  }
+
+  .caption {
+    font-size: $font-size-sm * 1.2;
+  }
+}
