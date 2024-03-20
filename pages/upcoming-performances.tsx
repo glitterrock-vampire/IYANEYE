@@ -13,15 +13,15 @@ const performances = [
     ticketsUrl: "https://touchstonelink.com/event/live-with-iyaneye-comfitanya-lounge"
 
   },
-//   {
-//     id: 2,
-//     name: "Dub Club",
-//     date: "April 21, 2024",
-//     location: "Dub Club, Skyline Drive, Kingston, Jamaica",
-//     description: "Experience the roots of reggae music with a modern twist at the iconic Dub Club.",
-//     ticketsUrl: "https://example.com/reggae-sunsplash-tickets"
+  {
+    id: 2,
+    name: "Dub Club",
+    date: "April 21, 2024",
+    location: "Dub Club, Skyline Drive, Kingston, Jamaica",
+    description: "Experience the roots of reggae music with a modern twist at the iconic Dub Club.",
+    ticketsUrl: "https://example.com/reggae-sunsplash-tickets"
 
-//   },
+  },
 
 //   {
 //     id: 3,
