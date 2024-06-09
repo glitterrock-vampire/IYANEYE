@@ -1,0 +1,20 @@
+.footer_container {
+  width: 100%;
+  background-color: $primary;
+  margin-bottom: $base-margin;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: $font-size-sm;
+  color: #fff;
+}
+
+.footer a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
