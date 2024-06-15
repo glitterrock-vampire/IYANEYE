@@ -6,124 +6,71 @@ const RODOPolicy = () => {
   return (
     <>
       <Head>
-        <title>Bimber Boys - Polityka Prywatności</title>
+        <title>Bimber Boys - Privacy Policy</title>
       </Head>
 
       <div className={styles.content}>
-        <h1 className={styles.title}>Polityka Cookies</h1>
+        <h1 className={styles.title}>Cookies Policy</h1>
         <ol className={styles.ol}>
           <li>
-            Strona internetowa www.bimberboys.pl (zwana dalej “Stroną”) nie
-            zbiera w sposób automatyczny żadnych informacji, z wyjątkiem
-            informacji zawartych w plikach cookies.
+            The website www.bimberboys.pl (hereinafter referred to as the “Site”) does not automatically collect any information, except for information contained in cookies.
           </li>
           <li>
-            Pliki cookies (tzw. „ciasteczka”) stanowią dane informatyczne, w
-            szczególności pliki tekstowe, które przechowywane są w urządzeniu
-            końcowym Użytkownika Strony i przeznaczone są do korzystania z
-            podstron internetowych Strony. Cookies zazwyczaj zawierają nazwę
-            strony internetowej, z której pochodzą, czas przechowywania ich na
-            urządzeniu końcowym oraz unikalny numer.
+            Cookies (so-called “cookies”) are IT data, in particular text files, which are stored in the end device of the Site User and are intended for using the Site's web pages. Cookies usually contain the name of the website from which they originate, the time of storage on the end device, and a unique number.
           </li>
           <li>
-            Podmiotem zamieszczającym na urządzeniu końcowym Użytkownika Strony
-            pliki cookies oraz uzyskującym do nich dostęp jest operator Strony –
-            Bimber Boys. z siedzibą ul. Wolności 39/59 22-100 Chełm. Pliki
-            cookies wykorzystywane są w celu:
+            The entity placing cookies on the end device of the Site User and accessing them is the operator of the Site – Bimber Boys. based at ul. Wolności 39/59 22-100 Chełm. Cookies are used for the purpose of:
           </li>
           <ol type="a">
             <li>
-              dostosowania zawartości stron internetowych Strony do preferencji
-              Użytkownika oraz optymalizacji korzystania ze stron internetowych;
-              w szczególności pliki te pozwalają rozpoznać urządzenie
-              Użytkownika Strony i odpowiednio wyświetlić stronę internetową,
-              dostosowaną do jego indywidualnych potrzeb;
+              adjusting the content of the Site's web pages to the User's preferences and optimizing the use of websites; in particular, these files allow recognizing the Site User's device and appropriately displaying the website, tailored to their individual needs;
             </li>
             <li>
-              tworzenia statystyk, które pomagają zrozumieć, w jaki sposób
-              Użytkownicy Strony korzystają ze stron internetowych, co umożliwia
-              ulepszanie ich struktury i zawartości;
+              creating statistics that help understand how Site Users use websites, which allows improving their structure and content;
             </li>
             <li>
-              utrzymanie sesji Użytkownika Strony (po zalogowaniu), dzięki
-              której Użytkownik nie musi na każdej podstronie Strony ponownie
-              wpisywać loginu i hasła;
+              maintaining the Site User's session (after logging in), thanks to which the User does not have to re-enter their login and password on every subpage of the Site;
             </li>
           </ol>
           <li>
-            W ramach Strony stosowane są dwa zasadnicze rodzaje plików cookies:
-            „sesyjne” (session cookies) oraz „stałe” (persistent cookies).
-            Cookies „sesyjne” są plikami tymczasowymi, które przechowywane są w
-            urządzeniu końcowym Użytkownika do czasu wylogowania, opuszczenia
-            strony internetowej lub wyłączenia oprogramowania (przeglądarki
-            internetowej). „Stałe” pliki cookies przechowywane są w urządzeniu
-            końcowym Użytkownika przez czas określony w parametrach plików
-            cookies lub do czasu ich usunięcia przez Użytkownika.
+            Two basic types of cookies are used within the Site: “session” cookies and “persistent” cookies. “Session” cookies are temporary files that are stored in the User's end device until logging out, leaving the website, or turning off the software (web browser). “Persistent” cookies are stored in the User's end device for the time specified in the parameters of the cookies or until they are deleted by the User.
           </li>
           <li>
-            W ramach Strony stosowane są następujące rodzaje plików cookies:
+            The following types of cookies are used within the Site:
           </li>
           <ol type="a">
             <li>
-              &quot;niezbędne&quot; pliki cookies, umożliwiające korzystanie z
-              usług dostępnych w ramach Strony, np. uwierzytelniające pliki
-              cookies wykorzystywane do usług wymagających uwierzytelniania w
-              ramach Strony;
+              “necessary” cookies, enabling the use of services available within the Site, e.g., authentication cookies used for services that require authentication within the Site;
             </li>
             <li>
-              pliki cookies służące do zapewnienia bezpieczeństwa, np.
-              wykorzystywane do wykrywania nadużyć w zakresie uwierzytelniania w
-              ramach Strony;
+              cookies used to ensure security, e.g., used to detect fraud in the field of authentication within the Site;
             </li>
             <li>
-              &quot;wydajnościowe&quot; pliki cookies, umożliwiające zbieranie
-              informacji o sposobie korzystania ze stron internetowych Strony;
+              “performance” cookies, enabling the collection of information on the use of the Site's web pages;
             </li>
             <li>
-              &quot;funkcjonalne&quot; pliki cookies, umożliwiające
-              „zapamiętanie” wybranych przez Użytkownika ustawień i
-              personalizację interfejsu Użytkownika, np. w zakresie wybranego
-              języka lub regionu, z którego pochodzi Użytkownik, rozmiaru
-              czcionki, wyglądu strony internetowej itp.;
+              “functional” cookies, allowing “remembering” the settings selected by the User and personalizing the User's interface, e.g., in terms of the selected language or region from which the User comes, font size, website appearance, etc.;
             </li>
             <li>
-              &quot;reklamowe&quot; pliki cookies, umożliwiające dostarczanie
-              Użytkownikom treści reklamowych bardziej dostosowanych do ich
-              zainteresowań.
+              “advertising” cookies, allowing the delivery of advertising content to Users more tailored to their interests.
             </li>
           </ol>
 
           <li>
-            W wielu przypadkach oprogramowanie służące do przeglądania stron
-            internetowych (przeglądarka internetowa) domyślnie dopuszcza
-            przechowywanie plików cookies w urządzeniu końcowym Użytkownika.
-            Użytkownicy Strony mogą dokonać w każdym czasie zmiany ustawień
-            dotyczących plików cookies. Ustawienia te mogą zostać zmienione w
-            szczególności w taki sposób, aby blokować automatyczną obsługę
-            plików cookies w ustawieniach przeglądarki internetowej bądź
-            informować o ich każdorazowym zamieszczeniu w urządzeniu Użytkownika
-            Strony. Szczegółowe informacje o możliwości i sposobach obsługi
-            plików cookies dostępne są w ustawieniach oprogramowania
-            (przeglądarki internetowej).
+            In many cases, the software used for browsing websites (web browser) by default allows storing cookies on the User's end device. Site Users can change their cookies settings at any time. These settings can be changed in particular in such a way as to block the automatic handling of cookies in the web browser settings or to inform about their every placement in the device of the Site User. Detailed information about the possibilities and ways of handling cookies is available in the software (web browser) settings.
           </li>
           <li>
-            Operator Strony informuje, że ograniczenia stosowania plików cookies
-            mogą wpłynąć na niektóre funkcjonalności dostępne na stronach
-            internetowych Strony.
+            The Site operator informs that restrictions on the use of cookies may affect some functionalities available on the Site's web pages.
           </li>
           <li>
-            Pliki cookies zamieszczane w urządzeniu końcowym Użytkownika Strony
-            i wykorzystywane mogą być również przez współpracujących z
-            operatorem Strony reklamodawców oraz partnerów.
+            Cookies placed in the User's end device and used may also be used by advertisers and partners cooperating with the Site operator.
           </li>
           <li>
-            Więcej informacji na temat plików cookies dostępnych jest w sekcji
-            „Pomoc” w menu przeglądarki internetowej.
+            More information about cookies is available in the “Help” section in the web browser menu.
           </li>
           <li>
             <p style={{ display: "inline", margin: "4px" }}>
-              Powyższy wzór polityki cookies chroniony jest prawem autorskim,
-              które przysługują IAB Polska. Źródło:
+              The above cookie policy template is protected by copyright, which belongs to IAB Poland. Source:
             </p>
             <a className={styles.a} href="http://wszystkoociasteczkach.pl/">
               wszystkoociasteczkach.pl

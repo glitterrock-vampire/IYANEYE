@@ -2,6 +2,8 @@ import Head from "next/head";
 import styles from "../styles/Home.module.scss"; // Ensure this includes the combined styles from both components
 import Image from "next/image";
 import logo from "../public/iyaneye-logo.png";
+import logo2 from "../public/iyaneye-logo.jpeg";
+
 import aboutPic from "../public/about.jpg"; // Import the about picture
 import bgPic from "../public/bg-new.webp";
 import CookieConsent from "react-cookie-consent";
@@ -22,11 +24,14 @@ const Home: React.FC = () => {
             transition={{ duration: 2.5 }}
           >
             <Image
-              src={logo}
-              alt=" logo"
+              src={logo2}
+              alt=" logo2"
               layout="intrinsic"
               placeholder="blur"
               priority
+              width={400} // Adjust width to make the logo smaller
+              height={200} // Adjust height to make the logo smaller
+               
             />
           </motion.div>
         </div>
