@@ -21,9 +21,9 @@ interface Member {
 const BandMembers: React.FC = () => {
   const members: Member[] = [
     {
-      name: "Rance ",
+      name: "Rance Chambers",
       description: "",
-      bio: "Rance better know as Rage played with several bands including Ketch A Fyah band Natural Rage band to name a few presently Rage plays with the band Iyaneye of which he is a founding member Rage plays the rhyme guitarist lead and backup vocal.",
+      bio: "Rance better played with several bands including Ketch A Fyah band Natural Rage band to name a few presently Rage plays with the band Iyaneye of which he is a founding member Rage plays the rhyme guitarist lead and backup vocal.",
       image: rancePic,
     },
     {
@@ -46,15 +46,15 @@ const BandMembers: React.FC = () => {
       image: ragePic,
     },
     {
-      name: "Geoffrey",
+      name: "Geoffrey Phillips",
       description: "Congo Drums/Precussions",
       bio: "Geoffrey Phillips aka Naphtali played with several bands (Black Safiyah, Natural Rage). Now a founding member of IYANEYE, plays percussion and sings back up vocals.",
       image: jefferyPic,
     },
     {
-      name: "Jacob",
-      description: "Bass guitar.",
-      bio: "Jacob plays bass guitar and has been a part of various musical journeys with the IYANEYE band.",
+      name: "Jacob Cammock",
+      description: "Lead Bass guitar.",
+      bio: "Jacob plays bass guitar and has been a part of various musical journeys with the IYANEYE band. During his tenur",
       image: jacobPic,
     },
     {
