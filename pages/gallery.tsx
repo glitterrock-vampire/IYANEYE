@@ -105,7 +105,6 @@ const Gallery = () => {
             <div className={styles.description}>
               <h3 className={styles.desc_title}>See you at the concerts!</h3>
               <p className={styles.desc_text}>
-                come see us live
               </p>
             </div>
           </div>
