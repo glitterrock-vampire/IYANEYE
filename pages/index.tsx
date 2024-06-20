@@ -68,32 +68,6 @@ const Home: React.FC = () => {
             <p>
               Welcome to the family. Welcome to IYANEYE.
             </p>
-            <div className={styles.band_members_container}>
-              <div className={styles.col}>
-                <p className={styles.name}>Phil Soltau</p>
-                <p className={styles.caption}>vocals and piano</p>
-              </div>
-              <div className={styles.col}>
-                <p className={styles.name}>Bobo Lloyd</p>
-                <p className={styles.caption}>piano</p>
-              </div>
-              <div className={styles.col}>
-                <p className={styles.name}>Rage</p>
-                <p className={styles.caption}>bass guitar</p>
-              </div>
-              <div className={styles.col}>
-                <p className={styles.name}>Jeffery</p>
-                <p className={styles.caption}>Congo Drums</p>
-              </div>
-              <div className={styles.col}>
-                <p className={styles.name}>Jacob</p>
-                <p className={styles.caption}>bass guitar</p>
-              </div>
-              <div className={styles.col}>
-                <p className={styles.name}>Name</p>
-                <p className={styles.caption}>percussion</p>
-              </div>
-            </div>
           </article>
         </div>
 
