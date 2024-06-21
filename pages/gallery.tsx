@@ -21,7 +21,6 @@ import gallery_img18 from "../public/img_gallery/theband.jpg"
 import gallery_img19 from "../public/img_gallery/rance.jpg"
 // import gallery_img19 from "../public/img_gallery/rance.jpg"
 
-
 const Gallery = () => {
   return (
     <>
