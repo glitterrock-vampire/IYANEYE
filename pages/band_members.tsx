@@ -4,7 +4,7 @@ import 'react-responsive-carousel/lib/styles/carousel.min.css';
 import styles from "../styles/BandMembers.module.scss";
 import Image, { StaticImageData } from "next/image";
 import rancePic from "../public/img_gallery/rance.jpg"; 
-import philPic from "../public/img_gallery/Phil.png";
+import philPic from "../public/img_gallery/phil.png";
 import boboPic from "../public/img_gallery/bobo.jpg";
 import ragePic from "../public/img_gallery/rage.jpg";
 import jefferyPic from "../public/img_gallery/jeff2.jpg";
