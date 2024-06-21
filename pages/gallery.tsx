@@ -12,7 +12,6 @@ import gallery_img9 from "../public/img_gallery/9.jpg";
 import gallery_img10 from "../public/img_gallery/10.jpg";
 import gallery_img11 from "../public/img_gallery/11.jpg"; 
 import gallery_img12 from "../public/img_gallery/12.jpg";
-import gallery_img13 from "../public/img_gallery/rage2.jpg";
 import gallery_img14 from "../public/img_gallery/jacobii.png";
 import gallery_img15 from "../public/img_gallery/jacobphil.jpg";
 import gallery_img16 from "../public/img_gallery/RANCE2.png";
@@ -20,6 +19,7 @@ import gallery_img17 from "../public/img_gallery/17.png"
 import gallery_img18 from "../public/img_gallery/theband.jpg"
 import gallery_img19 from "../public/img_gallery/rance.jpg"
 // import gallery_img19 from "../public/img_gallery/rance.jpg"
+
 
 const Gallery = () => {
   return (
@@ -127,16 +127,7 @@ const Gallery = () => {
               </p>
             </div>
           </div>
-
-          <div className={styles.img_wrapper}>
-            <Image src={gallery_img13} alt="IYANEYE band members" layout="fill" objectFit="cover" placeholder="blur" />
-            <div className={styles.description}>
-              <h3 className={styles.desc_title}>See you at the concerts!</h3>
-              <p className={styles.desc_text}>
-                come see us live
-              </p>
-            </div>
-          </div>
+          
           <div className={styles.video_wrapper}>
             <iframe
               width="560"
