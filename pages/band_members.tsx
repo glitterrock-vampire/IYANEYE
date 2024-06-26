@@ -43,7 +43,7 @@ const BandMembers: React.FC = () => {
       description: "rythym guitar/vocals",
       bio: "Rage known for their exceptional guitar skills and has been a part of the IYANEYE band, contributing to their unique sound.",
 
-      image: ragePic,
+      image: fyffePic,
     },
     {
       name: "Geoffrey Phillips aka Naphtali",
@@ -62,7 +62,7 @@ const BandMembers: React.FC = () => {
       description: "Bass guitar/vocals",
       bio: "Sylvester Fyffe is a bass/rhythm guitar player/ song writer/ singer etc. I started out singing with the first band in the early 1980s with the Dysastic band. Then with Pops and the crew as a bass player at Tuff Gong. Leroy Anderson, Rita Marley's father was the founder of that band. Then next was the Time and Space band also as a bassist. We were one of the top ten finalists in the 2001 festival song competition. I've been here and there doing what I like best as I continue moving forward as a musician the other band would be the Rotation band. We did a number of gigs in and around the corporate area that was well received the different audiences. The journey still continues.",
 
-      image: fyffePic,
+      image: ragePic,
     }
   ];
 
